@@ -27,7 +27,7 @@ I'm a full-stack developer and cyber security expert based in the United States.
 - 💬 Ask me about: Full-stack development, cybersecurity, AI, and tech consulting.
 - 📫 How to reach me: 
 
-![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white) `jpshag@protonmail.com`
+![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ``
 
