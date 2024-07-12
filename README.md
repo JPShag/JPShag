@@ -26,12 +26,12 @@ I'm a full-stack developer and cyber security expert based in the United States.
 - 🌱 I’m currently learning: Advanced AI techniques and improving performance optimization in Python.
 - 💬 Ask me about: Full-stack development, cybersecurity, AI, and tech consulting.
 - 📫 How to reach me: 
-
+https://github.com/JPShag/JPShag/blob/main
 ![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ``
 
-![GnuPG_Public_Key](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD) [Public Key](https://keybase.io/)
+![https://keybase.io/](/resources/GnuPG_Public_Key-333.svg)
 
 ## Skills
 
