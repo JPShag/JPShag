@@ -20,15 +20,14 @@
 
 ## About Me
 
-I'm a full-stack developer and cyber security expert based in the United States. I run a freelancing company called [Virtualize](https://github.com/virtualize). With broad interests in science and technology, I can help you achieve marketing goals to boost sales or code a sophisticated backend resilient to hacks.
+I'm a full-stack developer and cybersecurity expert based in the United States. I run a freelancing company called [Virtualize](https://github.com/virtualize). With broad interests in science and technology, I can help you achieve marketing goals to boost sales or code a sophisticated backend resilient to hacks.
 
-- 🔭 I’m currently working on: EDK2 Bootloader for Flashing Firwmare
+- 🔭 I’m currently working on: EDK2 Bootloader for Flashing Firmware
 - 🌱 I’m currently learning: Advanced AI techniques and improving performance optimization in Python.
 - 💬 Ask me about: Full-stack development, cybersecurity, AI, and tech consulting.
 - 📫 How to reach me: 
-[![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)]("mailto:jpshag@protonmail.com")
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ``
-[![keybase](/resources/GnuPG_Public_Key-333.svg)](https://keybase.io/)
+  - [![ProtonMail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jpshag@protonmail.com)
+  - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Skills
 
@@ -51,6 +50,7 @@ If you like my work, consider supporting me:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
 
 ## Connect with me
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WhiteHatJake)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpshag)
 
