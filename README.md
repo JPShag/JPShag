@@ -37,7 +37,7 @@ I'm a full-stack developer and cybersecurity expert based in the United States. 
 
 ## GitHub Stats
 
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpshag&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPShag)](https://github.com/JPShag/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpshag&layout=compact&theme=radical)
 
