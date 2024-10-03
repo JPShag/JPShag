@@ -1,7 +1,3 @@
-Here’s your fully updated and optimized GitHub README, integrating all the previous suggestions, including your website `virtualized.pro` and other improvements:
-
----
-
 # Hi there, I'm Jacob! 👋
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -21,8 +17,6 @@ Here’s your fully updated and optimized GitHub README, integrating all the pre
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![Jacob's Avatar](https://avatars.githubusercontent.com/u/28698059?v=4) <!-- Replace with your actual avatar link -->
 
 ## 🚀 About Me
 
