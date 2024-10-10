@@ -1,7 +1,5 @@
 # Hi there, I'm Jacob! 👋
 
-![Profile Banner](https://your-banner-image-url.com/banner.png) <!-- Optional: Add a personalized banner image -->
-
 ## 🚀 About Me
 
 I'm a **Full-Stack Developer** and **Cybersecurity Expert** based in the United States. I run a freelancing company called [Virtualize](https://virtualized.pro), where I help clients achieve their marketing goals by boosting sales and developing sophisticated, secure backends resilient to hacks. With broad interests in science and technology, I stay updated with the latest trends to deliver top-notch solutions.
