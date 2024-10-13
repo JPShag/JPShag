@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer** and **Cybersecurity Expert** based in the United 
 - 🌱 **Learning:** Advanced AI Techniques and Performance Optimization in Python
 - 💬 **Ask me about:** Full-Stack Development, Cybersecurity, AI, and Tech Consulting
 - 📫 **How to reach me:**
-  - [![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jpshag@protonmail.com)
+  - Discord VCPU
 
 ## 🛠️ Skills
 
