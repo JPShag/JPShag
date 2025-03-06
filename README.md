@@ -111,7 +111,6 @@ If you enjoy what I do, please consider supporting me:
 
 Let’s build something extraordinary together:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WhiteHatJake)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpshag)
 [![Virtualize](https://img.shields.io/badge/Virtualize-Pro-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtualized.pro)
 
