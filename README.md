@@ -1,122 +1,241 @@
-# **Hi there, I’m Jacob!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+<div align="center">
 
-I’m a **Full-Stack Developer** and **Cybersecurity Expert** based in the United States. As the founder of [Virtualize](https://virtualized.pro), I build **secure, resilient backends** that withstand hacking attempts and create **data-driven marketing** strategies to boost sales. My broad interests in **science and tech**—from AI to firmware—keep me inspired to craft powerful, future-proof solutions.
+<!-- Matrix Rain Effect Header -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│     ██╗██████╗ ███████╗██╗  ██╗ █████╗  ██████╗                              │
+│     ██║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝                              │
+│     ██║██████╔╝███████╗███████║███████║██║  ███╗                             │
+│██   ██║██╔═══╝ ╚════██║██╔══██║██╔══██║██║   ██║                             │
+│╚█████╔╝██║     ███████║██║  ██║██║  ██║╚██████╔╝                             │
+│ ╚════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                              │
+│                                                                              │
+│ [SYSTEM]: PROFILE LOADED                              [2025-05-26 01:32:35]  │
+│ [STATUS]: AUTHENTICATED                                        USER: JPShag  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=1500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=50&lines=root@localhost:~%23+./initialize_hacker.sh;[+]+Loading+kernel+modules...;[+]+8+years+in+the+matrix;[+]+Access+granted+to+/dev/brain)](https://git.io/typing-svg)
 
-## **🚀 Current Focus**
-- **Building** an **EDK2 Bootloader** for efficient firmware flashing  
-- **Deep-Diving** into **AI Techniques** & **Python Performance Optimization**  
-- **Ask Me About**: Full-Stack Dev, Cybersecurity, AI, and Tech Consulting  
-- **Find Me On**: Discord (VCPU)
+</div>
 
----
+```bash
+┌─[JPShag@github]─[~]
+└──╼ $ cat /proc/developer/info
+```
 
-## **🛠️ Tech Stack**
+```c
+/* DEVELOPER STRUCT DUMP - MEMORY ADDRESS: 0x7FF3N0DE */
+struct hacker {
+    char alias[16]     = "JPShag";
+    int exp_years      = 8;
+    char *languages[]  = {"C", "C++", "Rust", "Python", "JavaScript", "Verilog"};
+    bool sleep_needed  = false;
+    bool money_driven  = false;
+    char motto[64]     = "I don't work for money, I work for root access";
+};
+```
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+<div align="center">
 
-### **Frameworks & Tools**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-83CD29?style=flat-square&logo=onnx&logoColor=white)
-![LAMP](https://img.shields.io/badge/LAMP-FCC624?style=flat-square&logo=LAMP&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                            SKILL MATRIX v2.0                                  ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║  ▓▓▓▓▓▓▓▓▓▓ C/C++           [##########] 100% - Kernel Space Native           ║
+║  ▓▓▓▓▓▓▓▓▓░ Rust            [#########·] 90%  - Systems Programming           ║
+║  ▓▓▓▓▓▓▓▓░░ Python          [########··] 85%  - Automation & Research         ║
+║  ▓▓▓▓▓▓▓▓▓▓ FPGA/Verilog    [##########] 100% - Hardware Whisperer            ║
+║  ▓▓▓▓▓▓▓▓▓░ Assembly        [#########·] 95%  - Machine Code Poet             ║
+║  ▓▓▓▓▓▓▓░░░ JavaScript      [#######···] 75%  - Full Stack When Needed        ║
+║                                                                               ║
+║  [SPECIALIZED SECTORS]                                                        ║
+║  ├─ 0x01: Kernel Development    ▪ Ring 0 is Home                              ║
+║  ├─ 0x02: Hardware Hacking      ▪ PCIe Exploitation                           ║
+║  ├─ 0x03: Security Research     ▪ If it runs, I can break it                  ║
+║  └─ 0x04: Low-Level Magic       ▪ Where Dragons Live                          ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-### **Other Skills**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F8A70?style=flat-square&logo=datadog&logoColor=white)
-![Network Protocols](https://img.shields.io/badge/Network_Protocols-FF5733?style=flat-square&logo=signal&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0C808?style=flat-square&logo=tensorflow&logoColor=black)
-![AI Integration](https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square&logo=artificialintelligence&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+</div>
 
----
+## 🖥️ ACTIVE PROCESSES
 
-## **🏆 Featured Projects**
+```bash
+┌─[JPShag@localhost]─[~/projects]
+└──╼ $ ps aux | grep -E "passion|money"
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+jpshag   31337 99.9  0.1 999999     1 pts/0    R+   00:00   ∞:∞∞ /usr/bin/passion --no-sleep
+jpshag   00000  0.0  0.0      0     0 ?        Z    never   0:00 [money] <defunct>
+```
 
-- **[Virtualize](https://virtualized.pro)**  
-  *Full-stack development and cybersecurity freelancing solutions.*
+<details>
+<summary><b>🔓 /root/projects/pcileech_firmware</b></summary>
 
-- **[EDK2 Bootloader](https://github.com/JPShag/edk2-bootloader)**  
-  *A robust bootloader for seamless firmware flashing.*
+```bash
+┌─[CLASSIFIED PROJECT]
+│
+├─ Type: Hardware/Firmware Exploitation
+├─ Status: ACTIVE - Running without segfaults
+├─ Access: ROOT REQUIRED
+├─ Description: 
+│  └─> Direct Memory Access via PCIe manipulation
+│  └─> Because sometimes you need to talk directly to silicon
+│  └─> Money offered: YES | Money taken: NO | Knowledge gained: ∞
+└─ Warning: May cause spontaneous understanding of hardware
+```
+</details>
 
-- **[Secure API Suite](https://github.com/JPShag/secure-api-suite)**  
-  *Security-focused API framework to counter common exploits.*
+<details>
+<summary><b>🔐 /opt/saas/licensing_system</b></summary>
 
-- **[AI-Powered Analytics](https://github.com/JPShag/ai-powered-analytics)**  
-  *Leverages machine learning for advanced business insights.*
+```bash
+┌─[STEALTH MODE PROJECT]
+│
+├─ Progress: [████████░░] 90% - Almost ready to pwn the market
+├─ Architecture: Over-engineered (as tradition demands)
+├─ Features: 
+│  ├─> Hardware fingerprinting that would make the NSA jealous
+│  ├─> Security through obsession, not paycheck
+│  └─> Built for developers who appreciate craft
+└─ ETA: When it's perfect, not when it's profitable
+```
+</details>
 
-- **[Virtualized CMS](https://github.com/JPShag/virtualized-cms)**  
-  *A high-security, scalable content management system.*
+<details>
+<summary><b>💀 /dev/null/security_suite</b></summary>
 
----
+```bash
+┌─[SHADOW PROJECT]
+│
+├─ Components:
+│  ├─ hwid_spoofer.c     - Identity crisis as a service
+│  ├─ ai_targeting.rs    - Machines teaching machines
+│  └─ kernel_bypass.asm  - Dancing in Ring -1
+├─ Status: Production ready, morally questionable
+└─ Philosophy: "With great power comes great fun"
+```
+</details>
 
-## **📊 GitHub Stats**
+## 📡 CURRENT TRANSMISSIONS
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JPShag&show_icons=true&theme=radical&hide_border=true"
-    alt="JPShag's GitHub stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPShag&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
+```assembly
+; INTERRUPT VECTOR TABLE - CURRENT OBSESSIONS
+; =============================================
 
----
+section .research
+global _start
 
-## **📝 Blog**
+_start:
+    ; Diving deeper than /dev/null
+    mov rax, 0xEF1F1RMWARE       ; EFI Research
+    push qword [KERNEL_SECRETS]   ; Kernel Internals  
+    call BIOS_ARCHAEOLOGY         ; Ancient code exploration
+    
+    ; Sleep is for processes, not hackers
+.infinite_loop:
+    cmp byte [passion], 0
+    je .sell_out              ; Never reached
+    jmp .infinite_loop
 
-Stay updated with my latest articles and tutorials:
+.sell_out:
+    ; Unreachable code
+    ret
+```
 
-- [Understanding Cybersecurity Fundamentals](https://virtualized.pro/blog/cybersecurity-fundamentals)  
-- [Full-Stack Development Best Practices](https://virtualized.pro/blog/full-stack-best-practices)  
-- [Optimizing Python Performance](https://virtualized.pro/blog/optimizing-python-performance)  
-- [Integrating AI into Web Applications](https://virtualized.pro/blog/ai-web-integration)
+<div align="center">
 
----
+```
+┌────────────────────────────────────────────────────────────────┐
+│                    RESEARCH VECTORS                            │
+├────────────────────────────────────────────────────────────────┤
+│ » EFI/UEFI Exploitation........[████████▒▒] Loading...         │
+│ » Kernel Space Residency.......[██████████] Achieved           │
+│ » BIOS Reverse Engineering.....[███████▒▒▒] In Progress        │
+│ » Sleep Schedule...............[▒▒▒▒▒▒▒▒▒▒] Not Found          │
+└────────────────────────────────────────────────────────────────┘
+```
 
-## **🙏 Support My Work**
+</div>
 
-If you enjoy what I do, please consider supporting me:
+## 📊 SYSTEM STATISTICS
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourprofile)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/virtualcpu)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vcpu)
+<div align="center">
 
----
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                     GitHub Analytics v3.1                     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-## **📫 Connect With Me**
+<img src="https://github-readme-stats.vercel.app/api?username=JPShag&show_icons=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&text_color=00ff00&title_color=00ff00&icon_color=00ff00" width="420" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JPShag&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&stroke=00ff00" width="420" height="165">
 
-Let’s build something extraordinary together:
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpshag)
-[![Virtualize](https://img.shields.io/badge/Virtualize-Pro-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virtualized.pro)
+## 🌐 NETWORK INTERFACES
 
----
+```bash
+┌─[JPShag@localhost]─[~]
+└──╼ $ ifconfig social
+social    Link encap:Internet  HWaddr DE:AD:BE:EF:CA:FE
+          inet addr:vcpu@nvidiasoftware.com  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:∞ errors:0 dropped:0 overruns:0 frame:0
+          TX packets:∞ errors:0 dropped:0 overruns:0 carrier:0
 
-<p align="center">
-  <strong>Thanks for visiting!</strong> Feel free to browse my repositories, open an issue, or just say hello. 
-  <br/>Let’s create secure, high-performance applications that shape the future—together! 🚀
-</p>
+┌─[JPShag@localhost]─[~]
+└──╼ $ nmap -sV localhost
+
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH_13.37 (protocol 2.0)
+80/tcp   open  http        Passion-Server/∞.0
+443/tcp  open  https       Curiosity-Daemon/24.7
+1337/tcp open  elite       L33t-Service/ACTIVE
+31337/tcp open  BackOrifice [For interesting projects only]
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/[root@mail]─vcpu@nvidiasoftware.com-000000?style=flat-square&labelColor=000000&color=00ff00)](mailto:vcpu@nvidiasoftware.com)
+[![Twitter](https://img.shields.io/badge/[social@twitter]─@vcpu__sec-000000?style=flat-square&labelColor=000000&color=00ff00)](https://twitter.com/vcpu_sec)
+
+</div>
+
+## 🔧 /etc/motd
+
+```
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                           │
+│  "I don't need venture capital, I have vim and curiosity"                 │
+│                                                                           │
+│  Money is just a side effect of doing what you love.                      │
+│  I love making machines do impossible things.                             │
+│  Therefore: I make enough to keep the electrons flowing.                  │
+│                                                                           │
+│  Currently accepting: Impossible challenges, kernel bugs, coffee          │
+│  Currently rejecting: "Quick money" projects, boring work, sleep          │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+
+Last login: Mon May 26 01:32:35 2025 from 127.0.0.1
+```
+
+<div align="center">
+
+```
+[SYSTEM]: Profile scan complete
+[TIME]: 2025-05-26 01:32:35 UTC
+[USER]: JPShag logged in
+[WARNING]: High levels of passion detected
+[INFO]: Money.exe not found in PATH
+```
+
+<img src="https://img.shields.io/badge/Kernel%20Panic-Passion%20Overflow-00ff00?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/Bug%20Status-It's%20a%20Feature-00ff00?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/Coffee-Kernel%20Module%20Loaded-00ff00?style=for-the-badge&labelColor=000000">
+
+</div>
