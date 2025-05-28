@@ -259,10 +259,10 @@ endmodule
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  "Give me a datasheet and a compiler, and I shall move the world"    ║
+║  "Give me a datasheet and a compiler, and I shall move the world"     ║
 ║                           - Archimedes, probably                      ║
 ║                                                                       ║
-║          "God is real, unless declared integer"                      ║
+║          "God is real, unless declared integer"                       ║
 ║                           - Terry A. Davis                            ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
