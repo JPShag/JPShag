@@ -213,7 +213,10 @@ endmodule
 </td>
 <td align="center">
 <h3>🔑 Secure</h3>
-<img src="https://img.shields.io/badge/GPG-0x13371337-313131?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0D1117" />
+<a href="https://raw.githubusercontent.com/JPShag/profile-resources/refs/heads/main/assets/JPShag_public.asc">
+  <img src="https://img.shields.io/badge/GPG-0x13371337-313131?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0D1117" alt="GPG Key Badge"/>
+</a>
+
 </td>
 </tr>
 </table>
