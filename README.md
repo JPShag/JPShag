@@ -46,6 +46,7 @@ Prototype hardware neural core synthesizing thoughts in gates.
 
 * 💼 **Email:** [vcpu@nvidiasoftware.com](mailto:vcpu@nvidiasoftware.com)
 * 🐦 **Twitter:** [@vcpu\_sec](https://twitter.com/vcpu_sec)
+* 🔑 **GPG Key:** [0x13371337](https://raw.githubusercontent.com/JPShag/profile-resources/refs/heads/main/assets/JPShag_public.asc)
 
 **Open to collaborating on:**
 
