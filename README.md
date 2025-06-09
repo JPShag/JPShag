@@ -52,5 +52,5 @@ Prototype hardware neural core synthesizing thoughts in gates.
 
 * Kernel exploits that shouldn’t work but do
 * Hardware that thinks outside the chip
-* Security research that keeps vendors awake
+* Security research that keeps vendors awake **MSI/AMI** ***cough cough*** 
 * Building God’s Third Temple in silicon
