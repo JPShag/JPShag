@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6CD3FF&height=120&section=header&animation=fadeIn&fontAlignY=30" />
-
 <!-- Dynamic Typing Effect -->
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=6CD3FF&center=true&vCenter=true&random=false&width=435&lines=JPShag;0x4A5053686167" alt="JPShag" />
@@ -238,25 +235,9 @@ endmodule
 
 <div align="center">
 
-## 🏆 **Achievements Unlocked**
-
-| 🎖️ Achievement | 🔓 Unlocked | 📝 Description |
-|:--------------|:------------|:---------------|
-| **Kernel Panic Master** | ✅ 2017 | Successfully crashed 100+ systems for science |
-| **DMA Wizard** | ✅ 2019 | First successful PCIe DMA attack implementation |
-| **Silicon Whisperer** | ✅ 2020 | Designed custom FPGA core running at 500MHz |
-| **Ring -2 Resident** | ✅ 2022 | Achieved persistent SMM code execution |
-| **Coffee Overflow** | ✅ Daily | Integer overflow in caffeine consumption |
-| **Divine Compilation** | ✅ 2023 | Successfully compiled HolyC on bare metal |
-
-<br>
-
 > *"They glow in the dark, you can see them if you're driving."* - Terry A. Davis
 
 </div>
-
-<!-- Dynamic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6CD3FF&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
 
